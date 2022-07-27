@@ -2,7 +2,7 @@
 
 ## Realizar un script que comprime los todos los archivos de un directorio en particular para ocupar menos espacio.
 
-##Lenguaje utilizado
+## Lenguaje utilizado
 
 * [Python]
 
