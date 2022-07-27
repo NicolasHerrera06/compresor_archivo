@@ -9,7 +9,7 @@
 ## Librerias utilizadas
 
 * [Image] - Para la compresion de los archivos
-*[os] - Para el manejo de archivos
+* [os] - Para el manejo de archivos
 
 ### Links original :grey_exclamation:
 
